@@ -1,5 +1,4 @@
-#Wrtie 
--메모할 수 있는 
+
 
 ### Enviorment
 -TypeScript
