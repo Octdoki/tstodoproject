@@ -7,7 +7,6 @@
  
 TypeScript를 이용허며 만들어본 체크리스트어플 입니다.
 필요한것을 추가,삭제 할 수 있습니다.
- 
  #### 디렉터리 구조
 
       ┣ 📂src
@@ -39,9 +38,10 @@ TypeScript를 이용허며 만들어본 체크리스트어플 입니다.
       ┗ 📜package.json
       ┣ 📜package.json
 
-TodoForm.tsx: 새 할 일을 등록할 때 사용하는 컴포넌트 
-TodoItem.tsx: 할 일에 대한 정보를 보여주는 컴포넌트
-TodoList.tsx: 여러 TodoItem을 렌더링해주는 컴포넌트
+* TodoForm.tsx: 새 할 일을 등록할 때 사용하는 컴포넌트 
+* TodoItem.tsx: 할 일에 대한 정보를 보여주는 컴포넌트
+* TodoList.tsx: 여러 TodoItem을 렌더링해주는 컴포넌트
+* scss를 사용하여 모바일, 태블릿, 데스크톱 크기 별로 반응형 디자인을 완성하였습니다. 
 
   #### Screenshot
 
