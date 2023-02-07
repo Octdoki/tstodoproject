@@ -39,7 +39,7 @@ TypeScript를 이용허며 만들어본 체크리스트어플 입니다.
       ┣ 📜package.json
 
 * TodoForm.tsx: 새로운 item을 등록할 때 사용하는 컴포넌트 
-* TodoItem.tsx: 체크리스트를 보여주는 컴포넌트
+* TodoItem.tsx: CheckList를 보여주는 컴포넌트
 * TodoList.tsx: 여러 TodoItem을 렌더링해주는 컴포넌트
 * scss를 사용하여 모바일, 태블릿, 데스크톱 크기 별로 반응형 디자인을 완성하였습니다. 
 
